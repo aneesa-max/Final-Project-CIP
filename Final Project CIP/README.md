@@ -11,7 +11,7 @@ Code In Place students take participate in a non-graded project after finishing 
 
 
 ## Starfield Simulation
-- Clone this repo `git clone https://github.com/mkrdip/codeinplace-2024.git`
+- Clone this repo `git clone https://github.com/aneesa-max/Final-Project-CIP.git`
 - `cd projects`
 - Run `python3 starfield_simulation.py`
 - Demo:
