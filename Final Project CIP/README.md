@@ -1,6 +1,6 @@
 # Projects
 
-Code In Place students take participate in a non-graded project after finishing their project. On Week 5, I showed how to use `graphics` module to create something and share with others, it's called `week5/simple_flags.py`. Viewable online here: [Simple Flags](https://codeinplace.stanford.edu/cip4/share/FgkTEfWM5ugsKxUVUsTk). I have created two additional projects to inspire students in my section. They need to be run locally as they require some elements only present in `graphics` module which are unpresent in CIP coding platform's `graphics` module. 
+Code In Place students take participate in a non-graded project after finishing their project. On Week 5, I showed how to use `graphics` module to create something and share with others.
 
 ## Prerequisite
 
